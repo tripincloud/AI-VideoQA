@@ -1,5 +1,5 @@
 import streamlit as st
-from pages import Chat, Transcribe_Youtube
+from pages import Chat, Transcribe_Youtube, Home
 
 # App configuration
 st.set_page_config(
