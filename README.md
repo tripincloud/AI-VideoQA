@@ -15,7 +15,7 @@ The main functionality of TranscriptIQ is provided by the `transcribe_youtube.py
 - Display word clouds based on NER results
 
 ## Usage
-To use TranscriptIQ, you can run the `app.py` script. This will start the Streamlit app and you can interact with it to transcribe YouTube videos and perform NLP tasks on the transcribed text.
+To use AI-VideoQA, you can run the `app.py` script. This will start the Streamlit app and you can interact with it to transcribe YouTube videos and perform NLP tasks on the transcribed text.
 
 Note: Before running the script, make sure you have installed all the required packages listed in `requirements.txt`.
 
