@@ -9,7 +9,7 @@ st.set_page_config(
 
 # Navigation
 PAGES = {
-    "Home" : Home
+    "Home" : Home,
     "Upload Video": Transcribe_Youtube,
     "Chat": Chat
 }
